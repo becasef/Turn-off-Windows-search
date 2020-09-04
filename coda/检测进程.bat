@@ -1,0 +1,2 @@
+tasklist | find "SearchIndexer"
+pause

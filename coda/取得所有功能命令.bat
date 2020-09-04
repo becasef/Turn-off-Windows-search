@@ -1,0 +1,1 @@
+dism.exe /online /Get-Features>aaa.txt
